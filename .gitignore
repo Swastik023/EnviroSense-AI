@@ -1,0 +1,33 @@
+# Ignore Python bytecode and cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environment directories
+env/
+venv/
+ENV/
+.venv/
+.env/
+
+# Ignore SQLite database files
+*.sqlite3
+
+# Ignore instance folder for Flask (contains config and runtime files)
+instance/
+
+# Ignore configuration files containing sensitive data
+config/credentials.py
+
+# Ignore log files
+*.log
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore Docker-specific files
+docker-compose.override.yml
+.env
+
+# Ignore VS Code settings folder
+.vscode/
