@@ -1,0 +1,7 @@
+Air Quality Data for Mumbai:
+
+Air Quality Index (AQI): 50
+Main Pollutant: PM2.5
+Advisory: Air quality is considered satisfactory.
+
+Note: This is simulated data for demonstration purposes. Real data would be fetched from the AirVisual API.

@@ -1,0 +1,8 @@
+Weather Data for Mumbai:
+
+Temperature: 30°C
+Humidity: 70%
+Wind Speed: 5 m/s
+Description: Clear sky
+
+Note: This is simulated data for demonstration purposes. Real data would be fetched from the OpenWeather API.

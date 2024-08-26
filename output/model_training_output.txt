@@ -1,0 +1,21 @@
+Model Training Output:
+
+Training RandomForestRegressor with the following data:
+
+Features (X):
+Temperature: [25, 30, 20, 15, 10]
+Humidity: [80, 70, 75, 85, 90]
+Wind Speed: [5, 7, 3, 8, 10]
+
+Target (y):
+Energy Output: [200, 250, 150, 180, 220]
+
+Model trained successfully!
+
+Simulated model parameters:
+Feature Importances:
+- Temperature: 0.40
+- Humidity: 0.35
+- Wind Speed: 0.25
+
+Note: These results are simulated for demonstration purposes. Actual model performance would depend on real data.

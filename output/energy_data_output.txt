@@ -1,0 +1,7 @@
+Energy Data for Mumbai (Latitude: 19.0760, Longitude: 72.8777):
+
+Solar Energy: 200 kWh/m^2/year
+Wind Energy: 150 kWh/m^2/year
+Geothermal Energy: 120 kWh/m^2/year
+
+Note: This is simulated data for demonstration purposes. Real data would be fetched from the NREL API.
